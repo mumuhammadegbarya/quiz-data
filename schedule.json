@@ -1,0 +1,27 @@
+[
+  {
+    "day": "Monday",
+    "time": "10:00 AM - 2:00 PM",
+    "location": "Downtown Office"
+  },
+  {
+    "day": "Tuesday",
+    "time": "9:30 AM - 1:30 PM",
+    "location": "Uptown Branch"
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00 AM - 3:00 PM",
+    "location": "East Side Meeting Room"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Client Visit - XYZ Corp"
+  },
+  {
+    "day": "Friday",
+    "time": "9:00 AM - 12:00 PM",
+    "location": "West End Sales Office"
+  }
+]
