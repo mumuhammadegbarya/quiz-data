@@ -1,6 +1,13 @@
 [
+    
     {
-        "Name":"Weekly KPI - 3.11 - 8.11"
+        "Name": "Team Average - 3.11 - 8.11",
+        "Overall Performance":8.2,
+        "Tickets Evaluation":9.0,
+        "SUPs Quality":1,
+        "% Resolution":45.7,
+        "First Response":3.7,
+        "AVG. Reply Per Ticket":1
     },
     {
         "Name":"Alexander Bilyk",
@@ -63,15 +70,6 @@
         "SUPs Quality":0,
         "% Resolution":47.2,
         "First Response":3.8,
-        "AVG. Reply Per Ticket":1
-    },
-    {
-        "Name":"Team Average",
-        "Overall Performance":8.2,
-        "Tickets Evaluation":9.0,
-        "SUPs Quality":1,
-        "% Resolution":45.7,
-        "First Response":3.7,
         "AVG. Reply Per Ticket":1
     }
 ]
