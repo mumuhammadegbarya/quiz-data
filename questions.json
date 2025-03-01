@@ -5,9 +5,9 @@
         "correctAnswerIndex": 2
     },
     {
-        "text": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris"],
-        "correctAnswerIndex": 2
+        "text": "test quiz1?",
+        "options": ["A", "B", "C"],
+        "correctAnswerIndex": 1
     },
     {
         "text": "What is 2 + 2?",
