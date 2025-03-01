@@ -2,34 +2,26 @@
   {
     "day": "Sunday 17/2/2025",
     "time": "08:00-17:00",
-    "location": "Vova",
-    "time": "09:00-18:00",
-    "location": "Daniel & Alex",
-    "time": "15:00-00:00",
-    "location": "Igor"
+    "location": "Opening - Vova",
   },
   {
-    "day": "Monday 18/2/2025",
-    "time": "08:00-17:00",
-    "location": "Vova",
-    "time": "09:00-18:00",
-    "location": "Daniel & Alex",
-    "time": "15:00-00:00",
-    "location": "Igor"
+    "day": "Sunday 17/2/2025",
+    "time": "09:00 - 18:00",
+    "location": "Morning - Alex & Pavel",
   },
   {
-    "day": "Wednesday",
-    "time": "11:00 AM - 3:00 PM",
-    "location": "East Side Meeting Room"
+    "day": "Sunday 17/2/2025",
+    "time": "12:00 - 21:00",
+    "location": "Middle - Daniel",
   },
   {
-    "day": "Thursday",
-    "time": "10:00 AM - 4:00 PM",
-    "location": "Client Visit - XYZ Corp"
+    "day": "Sunday 17/2/2025",
+    "time": "15:00 - 00:00",
+    "location": "Evening - Igor",
   },
   {
-    "day": "Friday",
-    "time": "9:00 AM - 12:00 PM",
-    "location": "West End Sales Office"
+    "day": "Sunday 17/2/2025",
+    "time": "00:00 - 08:00",
+    "location": "Night - Shmuel",
   }
 ]
