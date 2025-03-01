@@ -5,6 +5,11 @@
         "correctAnswerIndex": 2
     },
     {
+        "text": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris"],
+        "correctAnswerIndex": 2
+    },
+    {
         "text": "What is 2 + 2?",
         "options": ["3", "4", "5"],
         "correctAnswerIndex": 1
