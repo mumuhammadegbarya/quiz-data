@@ -1,13 +1,21 @@
 [
   {
-    "day": "Monday",
-    "time": "10:00 AM - 2:00 PM",
-    "location": "Downtown Office"
+    "day": "Sunday 17/2/2025",
+    "time": "08:00-17:00",
+    "location": "Vova"
+    "time": "09:00-18:00",
+    "location": "Daniel & Alex"
+      "time": "15:00-00:00",
+    "location": "Igor"
   },
   {
-    "day": "Tuesday",
-    "time": "9:30 AM - 1:30 PM",
-    "location": "Uptown Branch"
+    "day": "Monday 18/2/2025",
+    "time": "08:00-17:00",
+    "location": "Vova"
+    "time": "09:00-18:00",
+    "location": "Daniel & Alex"
+      "time": "15:00-00:00",
+    "location": "Igor"
   },
   {
     "day": "Wednesday",
