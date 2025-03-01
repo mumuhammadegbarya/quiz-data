@@ -1,0 +1,92 @@
+[
+    {
+        "Weekly KPI - 3.11 - 8.11":"KPI",
+        "Unnamed: 1":"Overall Performance",
+        "Unnamed: 2":"Tickets Evaluation",
+        "Unnamed: 3":"SUPs Quality",
+        "Unnamed: 4":"% Resolution",
+        "Unnamed: 5":"First Response",
+        "Unnamed: 6":"AVG. Reply Per Ticket"
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Goal Index",
+        "Unnamed: 1":8,
+        "Unnamed: 2":8.5,
+        "Unnamed: 3":2,
+        "Unnamed: 4":0.5,
+        "Unnamed: 5":"5 min",
+        "Unnamed: 6":2.3
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Alexander Bilyk",
+        "Unnamed: 1":8,
+        "Unnamed: 2":9,
+        "Unnamed: 3":1,
+        "Unnamed: 4":0.488,
+        "Unnamed: 5":2.9,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Igor Zhebrak",
+        "Unnamed: 1":8.5,
+        "Unnamed: 2":9.4,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.528,
+        "Unnamed: 5":2.9,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Michael Kontesov",
+        "Unnamed: 1":8,
+        "Unnamed: 2":9,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.453,
+        "Unnamed: 5":3.6,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Pavel Bernstein",
+        "Unnamed: 1":8.5,
+        "Unnamed: 2":9.5,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.368,
+        "Unnamed: 5":3.3,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Shmuel Rozenberg",
+        "Unnamed: 1":7.8,
+        "Unnamed: 2":8.5,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.455,
+        "Unnamed: 5":7,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Vladimir Korilovsky",
+        "Unnamed: 1":8.5,
+        "Unnamed: 2":9.4,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.436,
+        "Unnamed: 5":2.2,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Daniel Amcheslavsky",
+        "Unnamed: 1":8,
+        "Unnamed: 2":8.4,
+        "Unnamed: 3":0,
+        "Unnamed: 4":0.472,
+        "Unnamed: 5":3.8,
+        "Unnamed: 6":1
+    },
+    {
+        "Weekly KPI - 3.11 - 8.11":"Team Average",
+        "Unnamed: 1":8.2,
+        "Unnamed: 2":9,
+        "Unnamed: 3":1,
+        "Unnamed: 4":0.457,
+        "Unnamed: 5":3.7,
+        "Unnamed: 6":1
+    }
+]
