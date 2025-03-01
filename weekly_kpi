@@ -1,6 +1,6 @@
 [
     {
-        "KPI":"Alexander Bilyk",
+        "Name":"Alexander Bilyk",
         "Overall Performance":8.0,
         "Tickets Evaluation":9.0,
         "SUPs Quality":1,
@@ -9,7 +9,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Igor Zhebrak",
+        "Name":"Igor Zhebrak",
         "Overall Performance":8.5,
         "Tickets Evaluation":9.4,
         "SUPs Quality":0,
@@ -18,7 +18,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Michael Kontesov",
+        "Name":"Michael Kontesov",
         "Overall Performance":8.0,
         "Tickets Evaluation":9.0,
         "SUPs Quality":0,
@@ -27,7 +27,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Pavel Bernstein",
+        "Name":"Pavel Bernstein",
         "Overall Performance":8.5,
         "Tickets Evaluation":9.5,
         "SUPs Quality":0,
@@ -36,7 +36,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Shmuel Rozenberg",
+        "Name":"Shmuel Rozenberg",
         "Overall Performance":7.8,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
@@ -45,7 +45,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Vladimir Korilovsky",
+        "Name":"Vladimir Korilovsky",
         "Overall Performance":8.5,
         "Tickets Evaluation":9.4,
         "SUPs Quality":0,
@@ -54,7 +54,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Daniel Amcheslavsky",
+        "Name":"Daniel Amcheslavsky",
         "Overall Performance":8.0,
         "Tickets Evaluation":8.4,
         "SUPs Quality":0,
@@ -63,7 +63,7 @@
         "AVG. Reply Per Ticket":1
     },
     {
-        "KPI":"Team Average",
+        "Name":"Team Average",
         "Overall Performance":8.2,
         "Tickets Evaluation":9.0,
         "SUPs Quality":1,
