@@ -1,32 +1,12 @@
 [
     {
         "text": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin"],
-        "correctAnswerIndex": 0
+        "options": ["Berlin", "Madrid", "Paris"],
+        "correctAnswerIndex": 2
     },
     {
-        "text": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Mars", "Venus"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "text": "Test Question1?",
-        "options": ["1", "2", "3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "text": "Test Question2?",
-        "options": ["1", "2", "3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "text": "Test Question3?",
-        "options": ["1", "2", "3"],
-        "correctAnswerIndex": 1
-    },
-    {
-        "text": "Test Question4?",
-        "options": ["1", "2", "3"],
+        "text": "What is 2 + 2?",
+        "options": ["3", "4", "5"],
         "correctAnswerIndex": 1
     }
 ]
