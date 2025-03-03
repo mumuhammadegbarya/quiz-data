@@ -21,7 +21,7 @@
     },
     {
         "text": "MT5: when creating a new group, what is the minimum password length that should be defined?",
-        "options": ["8","6","5"]",
+        "options": ["8","6","5"],
         "correctAnswerIndex": 2
     },
     {
