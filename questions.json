@@ -1,7 +1,7 @@
 [
     {
         "text": "CRM: If the field Validation Required = 1, what will be the impact on the client?",
-        "options": ["The client needs to upload documents", "The client won"t be able to deposit funds", "The client needs to fill out a questionnaire"],
+        "options": ["The client needs to upload documents", "The client won't be able to deposit funds", "The client needs to fill out a questionnaire"],
         "correctAnswerIndex": 2
     },
     {
