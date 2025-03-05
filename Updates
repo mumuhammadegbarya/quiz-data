@@ -1,5 +1,5 @@
 [
-  { "update": "First test Update" },
-  { "update": "Second Test update" },
-  { "update": "Third Test Update" }
+  { "First test Update" },
+  { "Second Test update" },
+  { "Third Test Update" }
 ]
