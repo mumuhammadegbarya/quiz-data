@@ -1,49 +1,49 @@
 [
     {
-        "day": "Sunday (2/3)",
-        "opening (8-17)": "Vova",
+        "day": "Sunday (9/3)",
+        "opening (8-17)": "Shmuel",
         "morning (9-18)": "Daniel + Pavel",
         "middle (12-21)": null,
-        "evening (15-00)": "Igor",
-        "night (0-8)":"Shmuel"
-    },
-    {
-        "day": "Monday (3/3)",
-        "opening (8-17)": "Pavel",
-        "morning (9-18)": "Daniel",
-        "middle (12-21)": "Igor",
         "evening (15-00)": "Michael",
-        "night (0-8)": "Shmuel"
+        "night (0-8)": "Igor"
     },
     {
-        "day": "Tuesday (4/3)",
-        "opening (8-17)": "Daniel",
-        "morning (9-18)": "Vova + Igor",
-        "middle (12-21)": "Pavel",
-        "evening (15-00)": "Pavel",
-        "night (0-8)": "Shmuel"
-    },
-    {
-        "day": "Wednesday (5/3)",
-        "opening (8-17)": "Pavel",
-        "morning (9-18)": "Vova",
+        "day": "Monday (10/3)",
+        "opening (8-17)": "Alex",
+        "morning (9-18)": "Daniel + Pavel + Vova",
         "middle (12-21)": "Michael",
+        "evening (15-00)": "Igor",
+        "night (0-8)": "Shmuel"
+    },
+    {
+        "day": "Tuesday (11/3)",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Alex + Pavel",
+        "middle (12-21)": "Igor",
         "evening (15-00)": "Daniel",
+        "night (0-8)": "Shmuel"
+    },
+    {
+        "day": "Wednesday (12/3)",
+        "opening (8-17)": "Pavel + Vova",
+        "morning (9-18)": "Michael + Igor + Alex",
+        "middle (12-21)": "Daniel",
+        "evening (15-00)": "Shmuel",
         "night (0-8)": "Pavel"
     },
     {
-        "day": "Thursday (6/3)",
-        "opening (8-17)": "Michael",
-        "morning (9-18)": "Shmuel",
-        "middle (12-21)": "Vova",
+        "day": "Thursday (13/3)",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Michael",
+        "middle (12-21)": "Alex",
         "evening (15-00)": "Igor",
-        "night (0-8)": "Daniel"
+        "night (0-8)": "Vova"
     },
     {
-        "day": "Friday (7/3)",
-        "opening (8-17)": "Michael",
-        "morning (9-18)": "Vova",
-        "middle (12-21)": "Igor",
+        "day": "Friday (14/3)",
+        "opening (8-17)": "Alex",
+        "morning (9-18)": "Daniel",
+        "middle (12-21)": "Michael",
         "evening (15-00)": "Shmuel",
         "night (0-8)": null
     }
