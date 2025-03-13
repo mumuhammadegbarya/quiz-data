@@ -1,65 +1,65 @@
 [
     {
-        "Name":"Team Average-23/2-28/2",
-        "Overall Performance":8.0,
+        "Name":"Team Average- 2/3 - 7/3",
+        "Overall Performance":8.2,
         "Tickets Evaluation":8.5,
         "SUPs Quality":1,
-        "Resolution%":47.2,
-        "First Response":3.8,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":48.8,
+        "First Response":3.9,
+        "AVG. Reply Per Ticket":1.2
     },
     {
         "Name":"Igor Zhebrak",
-        "Overall Performance":7.8,
-        "Tickets Evaluation":8.5,
-        "SUPs Quality":1,
-        "Resolution%":47.3,
-        "First Response":2.6,
-        "AVG. Reply Per Ticket":1.1
+        "Overall Performance":8.0,
+        "Tickets Evaluation":8.8,
+        "SUPs Quality":0,
+        "Resolution%":54.8,
+        "First Response":2.2,
+        "AVG. Reply Per Ticket":1.3
     },
     {
         "Name":"Michael Kontesov",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.0,
+        "Tickets Evaluation":7.5,
         "SUPs Quality":0,
-        "Resolution%":58.7,
-        "First Response":3.7,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":49.3,
+        "First Response":3.5,
+        "AVG. Reply Per Ticket":1.1
     },
     {
         "Name":"Pavel Bernstein",
-        "Overall Performance":8.0,
+        "Overall Performance":8.5,
         "Tickets Evaluation":8.5,
         "SUPs Quality":1,
-        "Resolution%":40.6,
-        "First Response":3.1,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":48.1,
+        "First Response":2.3,
+        "AVG. Reply Per Ticket":1.3
     },
     {
         "Name":"Shmuel Rozenberg",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.8,
+        "Tickets Evaluation":8.3,
         "SUPs Quality":0,
-        "Resolution%":39.3,
-        "First Response":8.0,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":40.0,
+        "First Response":10.0,
+        "AVG. Reply Per Ticket":1.2
     },
     {
         "Name":"Vladimir Korilovsky",
-        "Overall Performance":8.3,
+        "Overall Performance":8.5,
         "Tickets Evaluation":8.8,
         "SUPs Quality":1,
-        "Resolution%":45.2,
-        "First Response":3.1,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":51.0,
+        "First Response":2.5,
+        "AVG. Reply Per Ticket":1.1
     },
     {
         "Name":"Daniel Amcheslavsky",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.5,
-        "SUPs Quality":0,
-        "Resolution%":52.0,
-        "First Response":2.4,
+        "Tickets Evaluation":9.0,
+        "SUPs Quality":1,
+        "Resolution%":49.4,
+        "First Response":2.9,
         "AVG. Reply Per Ticket":1.0
     }
 ]
