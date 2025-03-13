@@ -1,50 +1,50 @@
 [
     {
         "day": "Sunday (16/3)",
-        "Opening (8-17)": "Daniel",
-        "Morning (9-18)": "Igor",
+        "opening (8-17)": "Daniel",
+        "morning (9-18)": "Igor",
         "middle (12-21)": null,
-        "Evening (15-00)": "Michael",
+        "evening (15-00)": "Michael",
         "Night (0-8)": "Shmuel"
     },
     {
         "day": "Monday (17/3)",
-        "Opening (8-17)": "Daniel + Vova",
-        "Morning (9-18)": "Igor",
+        "opening (8-17)": "Daniel + Vova",
+        "morning (9-18)": "Igor",
         "middle (12-21)": "Michael",
-        "Evening (15-00)": "Alex",
+        "evening (15-00)": "Alex",
         "Night (0-8)": "Shmuel"
     },
     {
         "day": "Tuesday (18/3)",
-        "Opening (8-17)": "Vova",
-        "Morning (9-18)": "Michael",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Michael",
         "middle (12-21)": "Alex",
-        "Evening (15-00)": "Igor",
+        "evening (15-00)": "Igor",
         "Night (0-8)": "Shmuel"
     },
     {
         "day": "Wednesday (19/3)",
-        "Opening (8-17)": "Vova",
-        "Morning (9-18)": "Alex",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Alex",
         "middle (12-21)": "Michael",
-        "Evening (15-00)": "Igor",
+        "evening (15-00)": "Igor",
         "Night (0-8)": "Pavel"
     },
     {
         "day": "Thursday (20/3)",
-        "Opening (8-17)": "Shmuel",
-        "Morning (9-18)": "Vova + Michael",
+        "opening (8-17)": "Shmuel",
+        "morning (9-18)": "Vova + Michael",
         "middle (12-21)": "Alex",
-        "Evening (15-00)": "Igor",
+        "evening (15-00)": "Igor",
         "Night (0-8)": "Pavel"
     },
     {
         "day": "Friday (21/3)",
-        "Opening (8-17)": "Vova",
-        "Morning (9-18)": "Alex",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Alex",
         "middle (12-21)": "Shmuel",
-        "Evening (15-00)": "Pavel",
+        "evening (15-00)": "Pavel",
         "Night (0-8)": null
     }
 ]
