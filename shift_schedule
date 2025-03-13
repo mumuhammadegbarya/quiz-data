@@ -1,6 +1,6 @@
 [
     {
-        "Day":"Sunday (16.3)",
+        "Day":"Sunday (16/3)",
         "Opening (8-17)":"Daneil",
         "Morning (9-18)":"Igor",
         "middle (12-21)":null,
@@ -8,7 +8,7 @@
         "Night (0-8)":"Shmuel"
     },
     {
-        "Day":"Monday (17.3)",
+        "Day":"Monday (17/3)",
         "Opening (8-17)":"Daniel + Vova",
         "Morning (9-18)":"Igor",
         "middle (12-21)":"Michael",
@@ -16,7 +16,7 @@
         "Night (0-8)":"Shmuel"
     },
     {
-        "Day":"Tuesday (18.3)",
+        "Day":"Tuesday (18/3)",
         "Opening (8-17)":"Vova",
         "Morning (9-18)":"Michael",
         "middle (12-21)":"Alex",
@@ -24,7 +24,7 @@
         "Night (0-8)":"Shmuel"
     },
     {
-        "Day":"Wednesday (19.3)",
+        "Day":"Wednesday (19/3)",
         "Opening (8-17)":"Vova",
         "Morning (9-18)":"Alex",
         "middle (12-21)":"Michael",
@@ -32,7 +32,7 @@
         "Night (0-8)":"Pavel"
     },
     {
-        "Day":"Thursday (20.3)",
+        "Day":"Thursday (20/3)",
         "Opening (8-17)":"Shmuel",
         "Morning (9-18)":"Vova + Michael",
         "middle (12-21)":"Alex",
@@ -40,7 +40,7 @@
         "Night (0-8)":"Pavel"
     },
     {
-        "Day":"Friday (21.3)",
+        "Day":"Friday (21/3)",
         "Opening (8-17)":"Vova",
         "Morning (9-18)":"Alex",
         "middle (12-21)":"Shmue",
