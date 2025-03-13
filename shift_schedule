@@ -3,7 +3,6 @@
         "Day":"Sunday (16/3)",
         "Opening (8-17)":"Daneil",
         "Morning (9-18)":"Igor",
-        "middle (12-21)":null,
         "Evening (15-00)":"Micahel",
         "Night (0-8)":"Shmuel"
     },
@@ -44,7 +43,6 @@
         "Opening (8-17)":"Vova",
         "Morning (9-18)":"Alex",
         "middle (12-21)":"Shmue",
-        "Evening (15-00)":"Pavel",
-        "Night (0-8)":null
+        "Evening (15-00)":"Pavel"
     }
 ]
