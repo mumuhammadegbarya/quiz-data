@@ -1,1 +1,45 @@
 
+[
+    {
+        "day":"sunday (9/3)",
+        "morning (8-17)":"Thiago + Bruno",
+        "evening (9-18)":null,
+        "middle (12-21)":null,
+        "emergency contact":"Thiago"
+    },
+    {
+        "day":"monday (10/3)",
+        "morning (8-17)":null,
+        "evening (9-18)":"Thiago + Bruno",
+        "middle (12-21)":null,
+        "emergency contact":"Thiago"
+    },
+    {
+        "day":"tuesday (11/3)",
+        "morning (8-17)":null,
+        "evening (9-18)":"Thiago",
+        "middle (12-21)":null,
+        "emergency contact":"Thiago"
+    },
+    {
+        "day":"wednesday (12/3)",
+        "morning (8-17)":null,
+        "evening (9-18)":"Thiago + Bruno",
+        "middle (12-21)":null,
+        "emergency contact":"Thiago"
+    },
+    {
+        "day":"thursday (13/3)",
+        "morning (8-17)":null,
+        "evening (9-18)":"Thiago + Bruno",
+        "middle (12-21)":null,
+        "emergency contact":"Thiago"
+    },
+    {
+        "day":"friday (14/3)",
+        "morning (8-17)":null,
+        "evening (9-18)":"Bruno",
+        "middle (12-21)":null,
+        "emergency contact":"Bruno"
+    }
+]
