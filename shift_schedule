@@ -1,15 +1,15 @@
 [
     {
         "day": "Sunday (16/3)",
-        "opening (8-17)": "Daniel",
-        "morning (9-18)": "Igor",
+        "opening (8-17)": "Igor",
+        "morning (9-18)": "Daniel",
         "middle (12-21)": null,
         "evening (15-00)": "Michael",
         "night (0-8)": "Shmuel"
     },
     {
         "day": "Monday (17/3)",
-        "opening (8-17)": "Daniel + Vova",
+        "opening (8-17)": "Daniel",
         "morning (9-18)": "Igor",
         "middle (12-21)": "Michael",
         "evening (15-00)": "Alex",
