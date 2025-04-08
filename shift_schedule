@@ -2,7 +2,7 @@
     {
         "day":"Sunday (6/4)",
         "opening  (8-17)":"Michael",
-        "morning  (9-18)":"Igor & Daneil",
+        "morning  (9-18)":"Igor AND Daneil",
         "middle (12-21)":null,
         "evening  (15-00)":"Alex",
         "night  (0-8)":"Shmuel"
@@ -25,8 +25,8 @@
     },
     {
         "day":"Wednesday (9/4)",
-        "opening  (8-17)":"Vova & Alex",
-        "Morning (9-18)":"Pavel & Igor",
+        "opening  (8-17)":"Vova AND Alex",
+        "Morning (9-18)":"Pavel AND Igor",
         "middle (12-21)":"Michael",
         "evening  (15-00)":"Daniel",
         "Night (0-8)":"Vova"
@@ -34,7 +34,7 @@
     {
         "day":"Thursday (10/4)",
         "opening  (8-17)":"Shmuel",
-        "Morning (9-18)":"Pavel & Alex",
+        "Morning (9-18)":"Pavel AND Alex",
         "middle (12-21)":"Michael",
         "evening  (15-00)":"Igor",
         "Night (0-8)":"Daniel"
