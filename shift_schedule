@@ -10,41 +10,41 @@
     {
         "day":"Monday (7/4)",
         "opening (8-17)": "Daneil",
-        "Morning (9-18)": "Vova",
+        "morning (9-18)": "Vova",
         "middle (12-21)": "Igor",
         "evening (15-00)": "Alex",
-        "Night (0-8)": "Shmuel"
+        "night (0-8)": "Shmuel"
     },
     {
         "day":"Tuesday (8/4)",
         "opening (8-17)": "Vova",
-        "Morning (9-18)": "Daneil",
+        "morning (9-18)": "Daneil",
         "middle (12-21)": "Alex",
         "evening (15-00)": "Michael",
-        "Night (0-8)": "Shmuel"
+        "night (0-8)": "Shmuel"
     },
     {
         "day":"Wednesday (9/4)",
         "opening (8-17)": "Vova AND Alex",
-        "Morning (9-18)": "Pavel AND Igor",
+        "morning (9-18)": "Pavel AND Igor",
         "middle (12-21)": "Michael",
         "evening (15-00)": "Daniel",
-        "Night (0-8)":"Vova"
+        "night (0-8)":"Vova"
     },
     {
         "day":"Thursday (10/4)",
         "opening (8-17)": "Shmuel",
-        "Morning (9-18)": "Pavel AND Alex",
+        "morning (9-18)": "Pavel AND Alex",
         "middle (12-21)": "Michael",
         "evening (15-00)": "Igor",
-        "Night (0-8)": "Daniel"
+        "night (0-8)": "Daniel"
     },
     {
         "day":"Friday (11/4)",
         "opening (8-17)": "Michael",
-        "Morning (9-18)": "Pavel",
+        "morning (9-18)": "Pavel",
         "middle (12-21)": "Shmuel",
         "evening (15-00)": "Vova",
-        "Night (0-8)": null
+        "night (0-8)": null
     }
 ]
