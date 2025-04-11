@@ -1,0 +1,33 @@
+
+[
+    {
+        "text": "CRM: If the field Validation Required = 1, what will be the impact on the client?",
+        "options": ["The client needs to upload documents", "The client won't be able to deposit funds", "The client needs to fill out a questionnaire"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "CRM: Commpeak dialer (with replication) - how does it operate with the CRM?",
+        "options": ["Using a CRM WS user", "Using affiliate API access", "Using a DB user"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "In case of a spike, how will you extract the affected trades (open and closed) from the MT5 server?",
+        "options": ["Using MT5 manager, export of Orders History report", "Trades should be extracted by Dealing through the DB", "Using MT5 admin, export Deals"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "MT5 History is in charge of the following:",
+        "options": ["Monitoring the operation of the history and trade servers.", "Performs regular backups of client and trade bases.", "Receiving and filtering price and news data from gateways and datafeeds."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "MT5: when creating a new group, what is the minimum password length that should be defined?",
+        "options": ["8","6","5"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "When an affiliate uses Get Customer method, where from the data is taken?",
+        "options": ["CRM DB","BL DB","DB Replica"],
+        "correctAnswerIndex": 1
+    }
+]
