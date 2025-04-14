@@ -2,11 +2,11 @@
   { "update": "Banxso Group: All changes to managers permissions should be approved by Dekel" },
   { "update": "Virtual Dealer Changes 13-18/04
 
-15/04 - 09:00pm (GBP)
-16/04 - 09:00am (GBP)
-16/04 - 08:30pm (USD)
-17/04 - 1:45am (NZD)
-17/04 - 4:30am (AUD)" },
-  { "update": "Garnet - All test accounts must be assigned to GARNET BEGINNER DEMO group in MT" },
+15/04 - 09:00 PM (GBP)
+16/04 - 09:00 AM (GBP)
+16/04 - 08:30 PM (USD)
+17/04 - 1:45 AM (NZD)
+17/04 - 4:30 AM (AUD)" },
+  { "update": "Garnet - All test accounts must be assigned to *GARNET BEGINNER DEMO* group in MT" },
   { "update": "GeldBeat - Very important to make sure all our test accounts are assigned to the Panda test Groups" }
 ]
