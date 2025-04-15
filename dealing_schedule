@@ -1,44 +1,44 @@
 [
     {
-        "day":"Sunday (6/4)",
-        "morning(8-17)":"Thiago + Bruno",
+        "day":"Sunday (13/04)",
+        "morning(8-17)":"Oleg",
         "evening(9-18)":null,
         "middle(12-21)":null,
-        "emergency_contact":"Thiago"
+        "emergency_contact":"Oleg"
     },
     {
-        "day":"Monday (7/4)",
+        "day":"Monday (14/04)",
         "morning(8-17)":null,
-        "evening(9-18)":"Thiago + Bruno",
+        "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Thiago"
     },
     {
-        "day":"Tuesday (8/4)",
+        "day":"Tuesday (15/04)",
         "morning(8-17)":null,
-        "evening(9-18)":"Thiago + Bruno",
+        "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Thiago"
     },
     {
-        "day":"Wednesday (9/4)",
-        "morning(8-17)":null,
-        "evening(9-18)":"Thiago",
-        "middle(12-21)":null,
-        "emergency_contact":"Thiago"
-    },
-    {
-        "day":"Thursday (10/4)",
-        "morning(8-17)":null,
-        "evening(9-18)":"Thiago + Bruno",
-        "middle(12-21)":null,
-        "emergency_contact":"Thiago"
-    },
-    {
-        "day":"Friday (11/4)",
+        "day":"Wednesday (16/04)",
         "morning(8-17)":null,
         "evening(9-18)":"Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Bruno"
+    },
+    {
+        "day":"Thursday (17/04)",
+        "morning(8-17)":null,
+        "evening(9-18)":"Thiago + Bruno",
+        "middle(12-21)":null,
+        "emergency_contact":"Thiago"
+    },
+    {
+        "day":"Friday (18/04)",
+        "morning(8-17)":null,
+        "evening(9-18)":"Thiago",
+        "middle(12-21)":null,
+        "emergency_contact":"Thiago"
     }
 ]
