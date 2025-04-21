@@ -1,1 +1,8 @@
-
+[
+    {
+        "Segment": "all"
+    },
+    {
+        "Segment": "test"
+    }
+]
