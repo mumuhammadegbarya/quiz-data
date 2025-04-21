@@ -3,6 +3,9 @@
         "Segment": "all"
     },
     {
+        "Segment": "agents"
+    },
+    {
         "Segment": "test"
     }
 ]
