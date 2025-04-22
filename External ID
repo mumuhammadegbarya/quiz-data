@@ -8,6 +8,10 @@
         "External User ID": "09"
     },
     {
+        "Name": "Test User2",
+        "External User ID": "03"
+    },
+    {
         "Name": "Test User",
         "External User ID": "01"
     }
