@@ -4,15 +4,11 @@
         "External User ID": "02"
     },
     {
-        "Name": "Val",
-        "External User ID": "9"
-    },
-    {
         "Name": "Test User2",
-        "External User ID": "3"
+        "External User ID": "03"
     },
     {
         "Name": "Test User",
-        "External User ID": "2"
+        "External User ID": "01"
     }
 ]
