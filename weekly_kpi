@@ -1,6 +1,6 @@
 [
     {
-        "Name":"Team Average- 30/3 - 4/4",
+        "Name":"📊Team Average- 30/3 - 4/4",
         "Overall Performance":8.2,
         "Tickets Evaluation":8.6,
         "SUPs Quality":0,
@@ -9,7 +9,7 @@
         "AVG. Reply Per Ticket":1.4
     },
     {
-        "Name":"Igor Zhebrak",
+        "Name":"📊Igor Zhebrak",
         "Overall Performance":8.0,
         "Tickets Evaluation":8.5,
         "SUPs Quality":1,
@@ -18,7 +18,7 @@
         "AVG. Reply Per Ticket":1.5
     },
     {
-        "Name":"Pavel Bernstein",
+        "Name":"📊Pavel Bernstein",
         "Overall Performance":8.3,
         "Tickets Evaluation":8.8,
         "SUPs Quality":1,
@@ -27,7 +27,7 @@
         "AVG. Reply Per Ticket":1.2
     },
     {
-        "Name":"Shmuel Rozenberg",
+        "Name":"📊Shmuel Rozenberg",
         "Overall Performance":8.0,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
@@ -36,7 +36,7 @@
         "AVG. Reply Per Ticket":1.3
     },
     {
-        "Name":"Vladimir Korilovsky",
+        "Name":"📊Vladimir Korilovsky",
         "Overall Performance":8.3,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
@@ -45,7 +45,7 @@
         "AVG. Reply Per Ticket":1.3
     },
     {
-        "Name":"Daniel Amcheslavsky",
+        "Name":"📊Daniel Amcheslavsky",
         "Overall Performance":8.5,
         "Tickets Evaluation":8.8,
         "SUPs Quality":0,
