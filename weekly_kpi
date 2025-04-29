@@ -4,7 +4,7 @@
         "Overall Performance":8.1,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
-        "Resolution %":51%,
+        "Resolution %":"51%",
         "First Response":3.4,
         "AVG. Reply Per Ticket":1
     },
