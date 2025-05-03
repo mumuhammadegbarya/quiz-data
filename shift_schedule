@@ -1,51 +1,49 @@
 [
     {
-        "day":"🗓️ Sunday (27/04)",
-        "opening (8-17)": "Shmuel",
-        "morning (9-18)": "Pavel",
+        "day":"🗓️ Sunday (04/05)",
+        "opening (8-17)": "Shmuel & Michael",
+        "morning (9-18)": "Daniel & Vova",
         "middle (12-21)": null,
-        "evening (15-00)": "Michael",
-        "night (0-8)": "Igor 🏠"
-    },
-    {
-        "day":"🗓️ Monday (28/04)",
-        "opening (8-17)": "Shmuel",
-        "morning (9-18)": "Pavel",
-        "middle (12-21)": "Daniel",
         "evening (15-00)": "Alex",
-        "night (0-8)": "Vova 🏠"
-    },
-    {
-        "day":"🗓️ Tuesday (29/04)",
-        "opening (8-17)": "Pavel",
-        "morning (9-18)": "Daniel",
-        "middle (12-21)": "Alex",
-        "evening (15-00)": "Igor",
-        "night (0-8)": "Pavel 🏠"
-    },
-    {
-        "day":"🗓️ Wednesday (30/04)
-Memorial Day",
-        "opening (8-17)": "Michael",
-        "morning (9-18)": "Alex",
-        "middle (12-21)": "Vova 🏠",
-        "evening (15-00)": "Daniel 🏠",
         "night (0-8)": "Igor 🏠"
     },
     {
-        "day":"🗓️ Thursday (01/05)
-Independence Day🎉",
-        "opening (8-17)": "Michael 🏠",
-        "morning (9-18)": "Daneil 🏠",
-        "middle (12-21)": null
-        "evening (15-00)": "Igor 🏠",
+        "day":"🗓️ Monday (05/05)",
+        "opening (8-17)": "Daniel",
+        "morning (9-18)": "Vova & Pavel",
+        "middle (12-21)": null,
+        "evening (15-00)": "Alex",
         "night (0-8)": "Shmuel 🏠"
     },
     {
-        "day":"🗓️ Friday (02/05)",
+        "day":"🗓️ Tuesday (06/05)",
+        "opening (8-17)": "Pavel",
+        "morning (9-18)": "Igor & Alex",
+        "middle (12-21)": null,
+        "evening (15-00)": "Daneil",
+        "night (0-8)": "Shmuel 🏠"
+    },
+    {
+        "day":"🗓️ Wednesday (07/05)",
         "opening (8-17)": "Vova",
-        "morning (9-18)": "alex",
-        "middle (12-21)": "Michael 🏠",
+        "morning (9-18)": "Alex & Pavel",
+        "middle (12-21)": null,
+        "evening (15-00)": "Igor",
+        "night (0-8)": "Daneil 🏠"
+    },
+    {
+        "day":"🗓️ Thursday (08/05)",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Pavel & Shmuel & Alex",
+        "middle (12-21)": null,
+        "evening (15-00)": "Igor",
+        "night (0-8)": "Vova 🏠"
+    },
+    {
+        "day":"🗓️ Friday (09/05)",
+        "opening (8-17)": "Pavel",
+        "morning (9-18)": "Daneil",
+        "middle (12-21)": "Igor 🏠",
         "evening (15-00)": "Shmuel 🏠",
         "night (0-8)": null
     }
