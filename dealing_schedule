@@ -1,43 +1,41 @@
 [
     {
-        "day":"🗓️ Sunday (27/04)",
+        "day":"🗓️ Sunday (04/05)",
         "morning(8-17)":null,
         "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Thiago"
     },
     {
-        "day":"🗓️ Monday (28/04)",
+        "day":"🗓️ Monday (05/05)",
         "morning(8-17)":null,
         "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Thiago"
     },
     {
-        "day":"🗓️ Tuesday (29/04)",
+        "day":"🗓️ Tuesday (06/05)",
         "morning(8-17)":null,
         "evening(9-18)":"Bruno",
         "middle(12-21)":null,
         "emergency_contact":"Bruno"
     },
     {
-        "day":"🗓️ Wednesday (30/04)
-Memorial Day",
+        "day":"🗓️ Wednesday (07/05)",
         "morning(8-17)":null,
         "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
-        "emergency_contact":"Oleg"
+        "emergency_contact":"Thiago"
     },
     {
-        "day":"🗓️ Thursday (01/05)
-Independence Day 🎉",
+        "day":"🗓️ Thursday (08/05)",
         "morning(8-17)":null,
-        "evening(9-18)":null,
+        "evening(9-18)":"Thiago & Bruno",
         "middle(12-21)":null,
-        "emergency_contact":"Oleg"
+        "emergency_contact":"Thiago"
     },
     {
-        "day":"🗓️ Friday (02/05)",
+        "day":"🗓️ Friday (09/05)",
         "morning(8-17)":null,
         "evening(9-18)":"Thiago",
         "middle(12-21)":null,
