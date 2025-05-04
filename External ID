@@ -12,7 +12,7 @@
         "External User ID": "02"
     },
     {
-        "Name": "Michael",
+        "Name": "Alex",
         "External User ID": "04"
     },
     {
@@ -30,5 +30,9 @@
     {
         "Name": "Igor",
         "External User ID": "08"
+    },
+    {
+        "Name": "Shmuel",
+        "External User ID": "09"
     }
 ]
