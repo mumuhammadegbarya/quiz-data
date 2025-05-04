@@ -1,6 +1,6 @@
 [
     {
-        "day":"🗓️ Sunday 0️⃣4️⃣➖0️⃣5️⃣",
+        "day":"🗓️ Sunday 0️⃣4️⃣/0️⃣5️⃣",
         "opening (8-17)": "Michael",
         "morning (9-18)": "Daniel",
         "middle (12-21)": null,
@@ -8,7 +8,7 @@
         "night (0-8)": "Igor 🏠"
     },
     {
-        "day":"🗓️ Monday (05/05)",
+        "day":"🗓️ Monday 0️⃣5️⃣/0️⃣5️⃣",
         "opening (8-17)": "Daniel",
         "morning (9-18)": "Vova & Pavel",
         "middle (12-21)": null,
@@ -16,7 +16,7 @@
         "night (0-8)": "Shmuel 🏠"
     },
     {
-        "day":"🗓️ Tuesday (06/05)",
+        "day":"🗓️ Tuesday 0️⃣6️⃣/0️⃣5️⃣",
         "opening (8-17)": "Pavel",
         "morning (9-18)": "Igor & Alex",
         "middle (12-21)": null,
@@ -24,7 +24,7 @@
         "night (0-8)": "Shmuel 🏠"
     },
     {
-        "day":"🗓️ Wednesday (07/05)",
+        "day":"🗓️ Wednesday 0️⃣7️⃣/0️⃣5️⃣",
         "opening (8-17)": "Vova",
         "morning (9-18)": "Alex & Pavel",
         "middle (12-21)": null,
@@ -32,7 +32,7 @@
         "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ Thursday (08/05)",
+        "day":"🗓️ Thursday 0️⃣8️⃣/0️⃣5️⃣",
         "opening (8-17)": "Vova",
         "morning (9-18)": "Pavel & Shmuel & Alex",
         "middle (12-21)": null,
@@ -40,7 +40,7 @@
         "night (0-8)": "Vova 🏠"
     },
     {
-        "day":"🗓️ Friday (09/05)",
+        "day":"🗓️ Friday 0️⃣9️⃣/0️⃣5️⃣",
         "opening (8-17)": "Pavel",
         "morning (9-18)": "Daniel",
         "middle (12-21)": "Igor 🏠",
