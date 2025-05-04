@@ -20,7 +20,7 @@
         "opening (8-17)": "Pavel",
         "morning (9-18)": "Igor & Alex",
         "middle (12-21)": null,
-        "evening (15-00)": "Daneil",
+        "evening (15-00)": "Daniel",
         "night (0-8)": "Shmuel 🏠"
     },
     {
@@ -29,7 +29,7 @@
         "morning (9-18)": "Alex & Pavel",
         "middle (12-21)": null,
         "evening (15-00)": "Igor",
-        "night (0-8)": "Daneil 🏠"
+        "night (0-8)": "Daniel 🏠"
     },
     {
         "day":"🗓️ Thursday (08/05)",
@@ -42,7 +42,7 @@
     {
         "day":"🗓️ Friday (09/05)",
         "opening (8-17)": "Pavel",
-        "morning (9-18)": "Daneil",
+        "morning (9-18)": "Daniel",
         "middle (12-21)": "Igor 🏠",
         "evening (15-00)": "Shmuel 🏠",
         "night (0-8)": null
