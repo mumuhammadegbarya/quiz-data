@@ -1,11 +1,14 @@
-
 [
-  { "update": "📲 New App Version:
-Email Issue Fix in this https://www.dropbox.com/scl/fi/k9jnq7ttm3i96mctdocj8/SupportApp26.6.apk?rlkey=njr41utu5r5mk82wizs6c4rqt&st=1avzpang&dl=0 (29/06) " },
-{ "update": "⚙️ *Virtual Dealer Changes*: 
-⏰ *03/09 04:30 (AUD)*
-⏰ *04/09 09:30 (CHF)*
-⏰ *05/09 15:30 (CAD)*" },
+  { "update": "📲 New App Version - Fix Email Issue in this https://www.dropbox.com/scl/fi/7rdipm8tdg535gftnfczi/SupportApp2.apk?rlkey=ehx1c78me9jvyto8u83cwj96m&st=twjlo08x&dl=0 )" },
+ { "update": "⚙️*Virtual Dealer Changes:*
+*02/06 17:00*⏰ (USD).
+*02/06 20:00*⏰ (USD).
+*03/06 09:30*⏰ (CHF).
+*04/06 04:30*⏰ (AUD)." },
+{ "update": "🔴 *Banxso Group*: 
+All changes to managers' permissions should be approved by *Dekel*." },
   { "update": "🔴 *Garent Trade*:
 All test accounts must be assigned to the *GARNET BEGINNER DEMO* group in MT." },
+  { "update": "🔴 *GeldBeat*:
+ Very important to make sure all our test accounts are assigned to the Panda test Groups." }
 ]
