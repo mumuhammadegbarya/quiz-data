@@ -4,7 +4,7 @@
         "Overall Performance":7.9,
         "Tickets Evaluation":8.6,
         "SUPs Quality":0,
-        "Resolution%":49.2%,
+        "Resolution%":49.2,
         "First Response":4.7,
         "AVG. Reply Per Ticket":1.1
     },
@@ -13,7 +13,7 @@
         "Overall Performance":7.5,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
-        "Resolution%":49.2%,
+        "Resolution%":49.2,
         "First Response":2.8,
         "AVG. Reply Per Ticket":1.1
     },
@@ -22,7 +22,7 @@
         "Overall Performance":8.0,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
-        "Resolution%":42.4%,
+        "Resolution%":42.4,
         "First Response":2.4,
         "AVG. Reply Per Ticket":1.1
     },
@@ -31,7 +31,7 @@
         "Overall Performance":8.0,
         "Tickets Evaluation":8.6,
         "SUPs Quality":0,
-        "Resolution%":58.4%,
+        "Resolution%":58.4,
         "First Response":7.0,
         "AVG. Reply Per Ticket":1.0
     },
@@ -40,7 +40,7 @@
         "Overall Performance":8.0,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
-        "Resolution%":44.4%,
+        "Resolution%":44.4,
         "First Response":7.0,
         "AVG. Reply Per Ticket":1.0
     },
@@ -49,7 +49,7 @@
         "Overall Performance":8.0,
         "Tickets Evaluation":8.8,
         "SUPs Quality":0,
-        "Resolution%":51.6%,
+        "Resolution%":51.6,
         "First Response":4.3,
         "AVG. Reply Per Ticket":1.0
     }
