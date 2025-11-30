@@ -4,6 +4,8 @@
 All changes to managers' permissions should be approved by *Dekel*." },
 { "update": "🔴 *Holiday Trading Hours* 
 *02/11/25* - *07/11/25*: https://drive.google.com/file/d/1SHdtb3pk1j6mzwcbTqZypE47TpDNC-sQ/view?usp=sharing." },
+  { "update": "🔴 *TradeSetGo*:
+All test accounts must be assigned to the *real\USD_test* OR *real\EUR_test* group in MT." }
   { "update": "🔴 *Garent Trade*:
 All test accounts must be assigned to the *GARNET BEGINNER DEMO* group in MT." }
 ]
