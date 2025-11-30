@@ -1,56 +1,56 @@
 [
     {
-        "Name":"Team Average 07/09-12/09 📊",
-        "Overall Performance":7.9,
-        "Tickets Evaluation":8.6,
+        "Name":"Team Average 16/11 - 21/11 📊",
+        "Overall Performance":8.0,
+        "Tickets Evaluation":8.7,
         "SUPs Quality":0,
-        "Resolution%":49.2,
-        "First Response":4.7,
-        "AVG. Reply Per Ticket":1.1
+        "Resolution%":46.7,
+        "First Response":2.9,
+        "AVG. Reply Per Ticket":1.2
     },
     {
         "Name":"Alexander Bilyk 📊",
-        "Overall Performance":7.5,
+        "Overall Performance":7.7,
         "Tickets Evaluation":8.5,
-        "SUPs Quality":0,
-        "Resolution%":49.2,
-        "First Response":2.8,
+        "SUPs Quality":2,
+        "Resolution%":50.0,
+        "First Response":2.5,
         "AVG. Reply Per Ticket":1.1
     },
     {
         "Name":"Igor Zhebrak 📊",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.5,
+        "Tickets Evaluation":8.8,
         "SUPs Quality":0,
-        "Resolution%":42.4,
-        "First Response":2.4,
-        "AVG. Reply Per Ticket":1.1
+        "Resolution%":53.2,
+        "First Response":3.8,
+        "AVG. Reply Per Ticket":1.4
     },
     {
         "Name":"Pavel Bernstein 📊",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.6,
+        "Tickets Evaluation":8.8,
         "SUPs Quality":0,
-        "Resolution%":58.4,
-        "First Response":7.0,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":40.9,
+        "First Response":3.1,
+        "AVG. Reply Per Ticket":1.1
     },
     {
         "Name":"Vladimir Korilovsky 📊",
-        "Overall Performance":8.0,
+        "Overall Performance":8.3,
         "Tickets Evaluation":8.5,
         "SUPs Quality":0,
-        "Resolution%":44.4,
-        "First Response":7.0,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":37.9,
+        "First Response":2.3,
+        "AVG. Reply Per Ticket":1.2
     },
     {
         "Name":"Daniel Amcheslavsky 📊",
         "Overall Performance":8.0,
-        "Tickets Evaluation":8.8,
+        "Tickets Evaluation":8.9,
         "SUPs Quality":0,
-        "Resolution%":51.6,
-        "First Response":4.3,
-        "AVG. Reply Per Ticket":1.0
+        "Resolution%":51.4,
+        "First Response":2.3,
+        "AVG. Reply Per Ticket":1.2
     }
 ]
