@@ -1,50 +1,50 @@
 [
     {
-        "day":"🗓️ 𝖲𝗎𝗇𝖽𝖺𝗒 04/01",
+        "day":"🗓️ 𝖲𝗎𝗇𝖽𝖺𝗒 18/01",
         "opening (8-17)": "Vova",
-        "morning (9-18)":"Igor",
+        "morning (9-18)":"Pavel",
         "middle (12-21)": null,
         "evening (15-00)": "Alex 🏠",
         "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ 𝖬𝗈𝗇𝖽𝖺𝗒 05/01",
+        "day":"🗓️ 𝖬𝗈𝗇𝖽𝖺𝗒 19/01",
         "opening (8-17)": "Vova",
-        "morning (9-18)": "Alex & Pavel",
+        "morning (9-18)": "Igor & Pavel",
         "middle (12-21)": null,
-        "evening (15-00)": "Igor 🏠",
+        "evening (15-00)": "Alex 🏠",
         "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ 𝖳𝗎𝖾𝗌𝖽𝖺𝗒 06/01",
+        "day":"🗓️ 𝖳𝗎𝖾𝗌𝖽𝖺𝗒 20/01",
         "opening (8-17)": "Vova",
-        "morning (9-18)": "Pavel & Alex",
+        "morning (9-18)": "Pavel & Igor",
         "middle (12-21)": null,
-        "evening (15-00)": "Igor 🏠",
+        "evening (15-00)": "Alex 🏠",
         "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ 𝖶𝖾𝖽𝗇𝖾𝗌𝖽𝖺𝗒 07/01",
-        "opening (8-17)": "Alex",
+        "day":"🗓️ 𝖶𝖾𝖽𝗇𝖾𝗌𝖽𝖺𝗒 21/01",
+        "opening (8-17)": "Vova",
         "morning (9-18)": "Pavel",
         "middle (12-21)": null,
-        "evening (15-00)": "Vova 🏠 ",
+        "evening (15-00)": "Alex 🏠 ",
         "night (0-8)": "Igor 🏠"
     },
     {
-        "day":"🗓️ 𝖳𝗁𝗎𝗋𝗌𝖽𝖺𝗒 08/01",
+        "day":"🗓️ 𝖳𝗁𝗎𝗋𝗌𝖽𝖺𝗒 22/01",
         "opening (8-17)": "Pavel",
-        "morning (9-18)": "Daniel",
-        "middle (12-21)": null,
-        "evening (15-00)": "Alex 🏠",
-        "night (0-8)": "Igor 🏠"
-    },
-    {
-        "day":"🗓️ 𝖥𝗋𝗂𝖽𝖺𝗒 09/01",
-        "opening (8-17)": "Vova 🏠",
-        "morning (9-18)": "Pavel 🏠",
+        "morning (9-18)": "Alex",
         "middle (12-21)": null,
         "evening (15-00)": "Daniel 🏠",
+        "night (0-8)": "Igor 🏠"
+    },
+    {
+        "day":"🗓️ 𝖥𝗋𝗂𝖽𝖺𝗒 23/01",
+        "opening (8-17)": "Vova 🏠",
+        "morning (9-18)": "Daniel 🏠",
+        "middle (12-21)": null,
+        "evening (15-00)": "Igor 🏠",
         "night (0-8)": null
     }
 ]
