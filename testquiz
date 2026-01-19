@@ -1,22 +1,22 @@
 [
-{
-        "question": "What is 5 + 3?",
-        "options": ["6", "8", "9", "7"],
-        "answer": "8"
-    },
-    {
-        "question": "Capital of Germany?",
-        "options": ["Paris", "Berlin", "Rome", "Madrid"],
-        "answer": "Berlin"
-    },
-    {
-        "question": "Python is a...",
-        "options": ["Snake", "Car", "Programming Language", "OS"],
-        "answer": "Programming Language"
-    },
-    {
-        "question": "Windows UI Library?",
-        "options": ["Tkinter", "Flask", "Django", "NumPy"],
-        "answer": "Tkinter"
-    }
+  {
+    "question": "What is 5 + 3?",
+    "options": ["6", "8", "9", "7"],
+    "answer": "8"
+  },
+  {
+    "question": "Capital of Germany?",
+    "options": ["Paris", "Berlin", "Rome", "Madrid"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Python is a...",
+    "options": ["Snake", "Car", "Programming Language", "OS"],
+    "answer": "Programming Language"
+  },
+  {
+    "question": "Windows UI Library?",
+    "options": ["Tkinter", "Flask", "Django", "NumPy"],
+    "answer": "Tkinter"
+  }
 ]
