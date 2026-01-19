@@ -1,21 +1,21 @@
 [
   {
-    "question": " 5 + 5?",
+    "question": " 5 + 5 ?",
     "options": ["6", "10", "9", "7"],
     "answer": "10"
   },
   {
-    "question": "10 + 15?",
+    "question": "10 + 15 ?",
     "options": ["35", "15", "105", "25"],
     "answer": "25"
   },
   {
-    "question": "35 * 10",
+    "question": "35 * 10 ؟",
     "options": ["350", "3500", "35000", "35"],
     "answer": "350"
   },
   {
-    "question": "10 / 2?",
+    "question": "10 / 2 ?",
     "options": ["2", "20", "5", "10"],
     "answer": "5"
   }
