@@ -2,7 +2,7 @@
   {
     "question": " ما نوع الزاوية ؟ https://iili.io/ftYf3Je.png",
     "options": ["قائمة", "حادة", "منفرجة", "مستقيمة"],
-    "answer": "منفرجة"
+    "answer": "حادة"
   },
   {
     "question": " كم عدد أضلاع المربع ؟ https://iili.io/ftDLXtV.png",
@@ -15,17 +15,17 @@
     "answer": "15"
   },
   {
-    "question": "20 - 9 ؟",
+    "question": "? 20-9 ",
     "options": ["9", "10", "11", "12"],
     "answer": "11"
   },
   {
-    "question": "6 × 4 ؟",
+    "question": "? 6 × 4",
     "options": ["20", "24", "18", "16"],
     "answer": "24"
   },
   {
-    "question": "18 ÷ 3 ؟",
+    "question": "? 18 ÷ 3 ",
     "options": ["5", "6", "7", "9"],
     "answer": "6"
   },
