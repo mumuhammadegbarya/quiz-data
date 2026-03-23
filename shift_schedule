@@ -1,46 +1,46 @@
 [
     {
-        "day":"🗓️ 𝖲𝗎𝗇𝖽𝖺𝗒 18/01",
-        "opening (8-17)": "Vova",
+        "day":"🗓️ 𝖲𝗎𝗇𝖽𝖺𝗒 22/03",
+        "opening (8-17)": "Igor",
         "morning (9-18)":"Pavel",
         "middle (12-21)": null,
         "evening (15-00)": "Alex 🏠",
         "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ 𝖬𝗈𝗇𝖽𝖺𝗒 19/01",
-        "opening (8-17)": "Vova",
-        "morning (9-18)": "Igor & Pavel",
-        "middle (12-21)": null,
-        "evening (15-00)": "Alex 🏠",
-        "night (0-8)": "Daniel 🏠"
-    },
-    {
-        "day":"🗓️ 𝖳𝗎𝖾𝗌𝖽𝖺𝗒 20/01",
-        "opening (8-17)": "Vova",
-        "morning (9-18)": "Pavel & Igor",
-        "middle (12-21)": null,
-        "evening (15-00)": "Alex 🏠",
-        "night (0-8)": "Daniel 🏠"
-    },
-    {
-        "day":"🗓️ 𝖶𝖾𝖽𝗇𝖾𝗌𝖽𝖺𝗒 21/01",
+        "day":"🗓️ 𝖬𝗈𝗇𝖽𝖺𝗒 23/03",
         "opening (8-17)": "Vova",
         "morning (9-18)": "Pavel",
         "middle (12-21)": null,
-        "evening (15-00)": "Alex 🏠 ",
-        "night (0-8)": "Igor 🏠"
+        "evening (15-00)": "Alex 🏠",
+        "night (0-8)": "Daniel 🏠"
     },
     {
-        "day":"🗓️ 𝖳𝗁𝗎𝗋𝗌𝖽𝖺𝗒 22/01",
-        "opening (8-17)": "Pavel",
+        "day":"🗓️ 𝖳𝗎𝖾𝗌𝖽𝖺𝗒 24/03",
+        "opening (8-17)": "Vova",
+        "morning (9-18)": "Pavel & Alex",
+        "middle (12-21)": null,
+        "evening (15-00)": "Igor 🏠",
+        "night (0-8)": "Daniel 🏠"
+    },
+    {
+        "day":"🗓️ 𝖶𝖾𝖽𝗇𝖾𝗌𝖽𝖺𝗒 25/03",
+        "opening (8-17)": "Vova & Vova",
+        "morning (9-18)": "Alex",
+        "middle (12-21)": null,
+        "evening (15-00)": "Igor 🏠 ",
+        "night (0-8)": "Daniel 🏠"
+    },
+    {
+        "day":"🗓️ 𝖳𝗁𝗎𝗋𝗌𝖽𝖺𝗒 26/03",
+        "opening (8-17)": "Vova",
         "morning (9-18)": "Alex",
         "middle (12-21)": null,
         "evening (15-00)": "Daniel 🏠",
         "night (0-8)": "Igor 🏠"
     },
     {
-        "day":"🗓️ 𝖥𝗋𝗂𝖽𝖺𝗒 23/01",
+        "day":"🗓️ 𝖥𝗋𝗂𝖽𝖺𝗒 27/03",
         "opening (8-17)": "Vova 🏠",
         "morning (9-18)": "Daniel 🏠",
         "middle (12-21)": null,
